@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="bt_xianshi">显式启动Activity</string>
+    <string name="bt_yinshi">隐式启动Activity</string>
+    <string name="bt_openWeb">打开网页</string>
+    <string name="bt_call">拨号</string>
+    <string name="bt_zhuanhuan">转换</string>
+    <string name="ed_url">http://www.gdmec.cn</string>
+    <string name="ed_phone">110</string>
+    <string name="tv_waite">等待转换</string>
+    <string name="bt_daxie">转换为大写</string>
+    <string name="intent_demo2_label">kissssss</string>
+    <string name="intent_demo3_label">kickkkkk</string>
+    <string name="intent_demo3_textView">我是通过MainActivity启动的</string>
+
+</resources>
